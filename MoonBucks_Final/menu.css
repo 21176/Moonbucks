@@ -1,0 +1,103 @@
+.navbar {
+  height: 80px;
+  padding: 50px;
+  /* background-color: #a07b5f; */
+
+  /* margin-top: 20px;
+  margin-bottom: 20px; */
+  /* transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px; */
+}
+
+
+
+
+/* .navbar-item {
+  padding: 100px;
+} */
+
+/* .nav-link {
+  transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}*/
+
+
+
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+
+  /* .nav-link:hover {
+      background-color: #ffffff;
+      color: #0e0e0e00;
+      padding: 24px 10px;
+    }  */
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+
+.row{
+    width: 22.5%;
+
+    text-decoration: none;
+
+    background-color: rgb(177, 137, 86);
+    
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    margin-bottom: 50px;  
+
+    
+
+    padding-top:30px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin-right: 60px;
+    margin-left: 50px;
+
+    margin-top: 60px;
+
+    display: inline-block;
+
+    border-radius: 10px;  
+    
+   
+}
+.back{
+  
+  background-color: bisque;
+  margin-left: 75px;
+  margin-right: 80px;
+  border-radius: 5px;
+  padding-left: 50px;
+  
+}
+#footer{
+  padding: 7% 10%;
+  text-align: center;
+  background-color:#BE8C63;
+  padding-bottom: 50px;
+}
+h3 {
+
+  
+  font-size: 4rem;
+  font-family: 'Permanent Marker', cursive;
+  margin-top:40px;
+
+}

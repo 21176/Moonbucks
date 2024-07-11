@@ -1,0 +1,201 @@
+.navbar {
+    height: 80px;
+    padding: 50px;
+    /* background-color: #a07b5f; */
+
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+    /* transition: 0.4s;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 10px;
+    margin: 0 10px; */
+}
+
+
+
+
+/* .navbar-item {
+    padding: 100px;
+} */
+
+/* .nav-link {
+    transition: 0.4s;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 10px;
+    margin: 0 10px;
+  }*/
+
+
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+
+    /* .nav-link:hover {
+        background-color: #ffffff;
+        color: #0e0e0e00;
+        padding: 24px 10px;
+      }  */
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat"
+}
+
+#features {
+    background-color: #BE8C63;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.our-menu {
+
+    padding-bottom: 50px;
+    font-size: 4rem;
+    font-family: 'Permanent Marker', cursive;
+    margin-top:20px;
+
+}
+
+h4 {
+    font-size: 1rem;
+    font-family: "Patrick Hand", cursive;
+}
+
+.container-fluid {
+    position: relative;
+    text-align: right;
+    color: white;
+    padding: 0;
+
+}
+
+.text {
+    font-size: 4rem;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.text1 {
+    font-size: large;
+}
+
+.story {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.story-img {
+    width: 100%;
+}
+
+#footer{
+    padding: 7% 10%;
+    text-align: center;
+    background-color:#BE8C63;
+  }
+  
+
+
+.menu{
+    background-image: url(menu-bg-img.jpg);
+}
+
+
+
+.menu-img:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(232, 217, 217);
+}
+
+.form{
+    padding-top: 100px;
+}
+
+.row1
+{
+    width: 25%;
+
+    text-decoration: none;
+
+    background-color: white;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    margin-bottom: 20px;  
+
+    padding-left: 20px;
+
+    padding-right: 20px;
+
+    padding-top:20px;
+
+    margin-right: 55px;
+    margin-left: 65px;
+
+    margin-top: 30px;
+
+    display: inline-block;
+
+    border-radius: 10px;  
+
+}
+
+
+
+div.row1:hover
+
+{
+    background-color:#e3e3e1
+}
+
+#testimonials{
+
+    text-align: center;
+    background-color: #BE8C63;
+    color: #fff;
+  }
+
+h1{
+    text-align: center;
+    font-family: "Permanent Marker";
+    padding-top: 100px;
+    font-size: 32px;
+}
+
+
+  .testimonial-image {
+    width: 30%;
+    border-radius: 100%;
+    margin: 30px;
+  }
+
+
+  h2 {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  .checked {
+    color: gold;
+  }
+
+  .carousel-caption{
+    font-family: "Patrick Hand";
+    font-size: 1.8rem;
+
+  }
